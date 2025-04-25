@@ -1,4 +1,4 @@
-# Bolt Clone
+# AI-coding-agent
 
 An AI-powered code generator built with Node.js, Express, and OpenAI's GPT-4 integration.
 
